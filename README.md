@@ -12,4 +12,4 @@ A simple number guessing game made using Python.
 
 🎉 Game ends when you guess it correctly.
 
-To view the project, simply clone the repository and open the  file in your browser.
+To view the project, simply clone the repository and open the the perfect guess.py file in your browser.
